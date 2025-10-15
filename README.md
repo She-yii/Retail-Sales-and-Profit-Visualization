@@ -44,7 +44,7 @@ The dataset includes transactional retail data with the following key fields:
 ---
 
 ### **1. Sales VS COGS (Profitability Trend) KPI Visual**
-https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/fbf59eb5dc2c4e9656f57c5b550b607cfff6f30c/IMG-20251015-WA0049.jpg
+![KPI Visuals](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/fbf59eb5dc2c4e9656f57c5b550b607cfff6f30c/IMG-20251015-WA0049.jpg)
 
 #### **Challenge:**  
 Management needed a single visual indicator showing whether total sales were exceeding the cost of goods sold (COGS) over time.
@@ -59,7 +59,7 @@ A **KPI card** compares **Total Sales** and **COGS** to evaluate profitability p
 ---
 
 ### **2. Total Revenue by Product Category**
-https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/574b87baf0804b2b25aa4652ac764eb97fb271f9/IMG-20251015-WA0051.jpg
+![Revenue by Category](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/574b87baf0804b2b25aa4652ac764eb97fb271f9/IMG-20251015-WA0051.jpg)
 
 #### **Challenge:**  
 Which product category contributes the most to total revenue?
@@ -74,7 +74,7 @@ A **bar chart** visualizes total revenue across Beauty, Clothing, and Electronic
 ---
 
 ### **3. Profitability by Category (Summary Table)**
-![Profit Table](images/profit_table.png)
+![Profit Table](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/95477b3024263566d27a401e4fccabb1ba69df8f/IMG-20251015-WA0046.jpg)
 
 #### **Challenge:**  
 The finance team wanted an overview of profit contribution by category and a quick way to track trends.
