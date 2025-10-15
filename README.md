@@ -115,7 +115,7 @@ AOV = DIVIDE(SUM(Sales[total_sale]), DISTINCTCOUNT(Sales[transaction_id]))
 ---
 
 ### **5. Sales Trend and Forecast**
-![Sales Forecast](images/sales_forecast.png)
+![Sales Forecast](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/60d5b2f1292c8858a18d67361b9c9727bbfa5881/IMG-20251015-WA0048.jpg)
 
 #### **Challenge:**  
 Stakeholders wanted to visualize sales patterns over time and forecast future performance.
