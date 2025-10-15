@@ -93,7 +93,7 @@ A **summary table** was created showing:
 ---
 
 ### **4.  Average Order Value (AOV)**
-![AOV KPI](images/aov_kpi.png)
+![AOV KPI](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/a341bcc3616d839d8b645b969569df70efc18940/IMG-20251015-WA0052.jpg)
 
 #### **Challenge:**  
 The business wanted to understand average customer spending per order.
