@@ -44,7 +44,7 @@ The dataset includes transactional retail data with the following key fields:
 ---
 
 ### **1. Sales VS COGS (Profitability Trend) KPI Visual**
-![KPI Visual](images/kpi_cogs_sales.png)
+https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/fbf59eb5dc2c4e9656f57c5b550b607cfff6f30c/IMG-20251015-WA0049.jpg
 
 #### **Challenge:**  
 Management needed a single visual indicator showing whether total sales were exceeding the cost of goods sold (COGS) over time.
