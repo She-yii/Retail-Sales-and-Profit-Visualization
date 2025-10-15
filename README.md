@@ -59,7 +59,7 @@ A **KPI card** compares **Total Sales** and **COGS** to evaluate profitability p
 ---
 
 ### **2. Total Revenue by Product Category**
-![Revenue by Category](images/revenue_by_category.png)
+https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/574b87baf0804b2b25aa4652ac764eb97fb271f9/IMG-20251015-WA0051.jpg
 
 #### **Challenge:**  
 Which product category contributes the most to total revenue?
