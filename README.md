@@ -131,7 +131,7 @@ A **line chart** plots **Total Sales by Date**, enhanced with Power BI’s **for
 ---
 
 ### **6. Impact of Product Pricing on Profit Margin**
-![Pricing Impact](images/price_vs_profit_margin.png)
+![Pricing Impact](https://github.com/She-yii/Retail-Sales-and-Profit-Visualization/blob/1a95c00d2840d42c7a9ba682f905fa53de6dc7f3/IMG-20251015-WA0047.jpg)
 
 #### **Challenge:**  
 Do higher prices lead to better profit margins?
